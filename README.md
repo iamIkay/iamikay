@@ -1,5 +1,9 @@
 ### Hi there 👋, I'm Ikay!
 
+- 🔭 I'm currently working on: **Cross-Platform App Development**
+- 💬 Ask me about: **Flutter, Firebase, Java, Kotlin, HTML, CSS, JavaScript**
+- ✈📝📚 Hobbies: **Traveling, Writing, Reading, Movies**
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamikay&layout=compact)
 
 <img  align="left" src= "https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white"/>
