@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ikay!
+### Hi there 👋, I'm John!
 
 - 🔭 I'm currently working on: **Cross-Platform App Development**
 - 💬 Ask me about: **Flutter, Firebase, Java, Kotlin, HTML, CSS, JavaScript**
