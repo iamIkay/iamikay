@@ -10,8 +10,7 @@
 
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 # 📚 My Blog posts
 <!-- BLOG-POST-LIST:START -->
