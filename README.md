@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm John!
 
-- 🔭 I'm currently working on: **Cross-Platform App Development**
-- 💬 Ask me about: **Flutter, Firebase, Java, Kotlin, HTML, CSS, JavaScript**
+- 🔭 I'm currently working on: **Fullstack mobile and web development**
+- 💬 Ask me about: **Flutter, Firebase, Java, Kotlin, HTML, CSS, JavaScript, React, Next, Nodejs, Typescript**
 - ✈📝📚 Hobbies: **Traveling, Writing, Reading, Movies**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamikay&layout=compact)
